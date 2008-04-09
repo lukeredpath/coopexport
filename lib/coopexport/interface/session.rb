@@ -1,4 +1,5 @@
 require 'net/https'
+require 'hpricot'
 
 module CoopExport
   module Interface
@@ -52,7 +53,7 @@ module CoopExport
     
     class ResponseParser
       def find_security_token(html_content)
-        
+        Hpricot(html_content).search("//input[@name='#{Session::SECURITY_TOKEN_KEY}']").first['value'] rescue nil
       end
     end
   end
