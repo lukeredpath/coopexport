@@ -3,3 +3,14 @@ Co-Operative Bank Statement Exporter
 The UK Co-Op bank does not provide a way to download your statements from their
 online banking website. This script will scrape your statements and save them
 in a CSV format.
+--------------------------------------------------------------------------------
+
+# What is co-Op bank ?
+he Co-operative Bank plc is a retail and commercial bank in the United Kingdom, with its headquarters in Balloon Street, Manchester.
+
+The Co-operative Bank is the only UK high street bank with a customer-led Ethical Policy which is now incorporated into the Bank's Articles of Association.
+The Ethical Policy was introduced in 1992 and incorporated into the Bank's constitution in 2013.
+The Ethical Policy was revised and expanded in 2015 in line with over 320,000 customer responses to a poll. 
+The latest Values and Ethics report was published in June 2019.
+
+-----------------------------------------------------------------------------------
