@@ -1,5 +1,5 @@
 Co-Operative Bank Statement Exporter
 ===============================================================================
 The UK Co-Op bank does not provide a way to download your statements from their
-online banking website. This script will scrape your statements and save them
+online banking website. This amazing script will scrape your statements and save them
 in a CSV format.
