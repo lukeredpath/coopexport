@@ -1,4 +1,4 @@
-Co-Operative Bank Statement Exporter
+*Co-Operative Bank Statement Exporter*
 ===============================================================================
 The UK Co-Op bank does not provide a way to download your statements from their
 online banking website. This script will scrape your statements and save them
